@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geega&theme=dark&show_icons=true&hide=issues,contribs)](https://github.com/geega/)
-
+<!--[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geega&theme=dark&show_icons=true&hide=issues,contribs)](https://github.com/geega/)
+-->
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geega&theme=dark&hide=jupyter%20notebook,php,vue,html,css,go&langs_count=8&layout=compact)](https://github.com/geega/) -->
